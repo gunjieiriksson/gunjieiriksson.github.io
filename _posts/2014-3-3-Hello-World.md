@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to a Fitness Exploration
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+If life is journey, then why is fitness any different. Let's unburden ourselves of our goals for a moment and venture across land and time to rediscover the joy we find through physical exertion. 
+There is more to exercise than what you will find at your local gym. Fortunately for me, when I started exercising outside of sports, I didn't always have access to a gym. As you might find with many other things, if you start over, the whole world opens up to you. And so, I set out to collect all the exercises the world has to offer and bring them home.
+Don't cancel your gym membership just yet (are they even open...). Cable machines are still part of it all. Instead, you can come back here and see what I've found, or, perhaps, where I'll go to find it.  
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+
+Hey, are those your goals on the floor over there? Pick them back up; this is exercise remember?!
