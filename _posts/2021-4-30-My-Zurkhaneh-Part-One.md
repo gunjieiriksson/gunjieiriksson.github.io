@@ -28,8 +28,7 @@ The single press is a one armed version of the rotating chest press. Although, y
 ### 5. Single Rolling Press
 In this press, the pressing motion is the same as the single press. However, your lower body is going to get some action in this one. Start with your thighs curled up and your shins parallel to the floor. As you lower one arm, rotate your lower body towards the pressing side, and extend your legs as you reach the bottom. Curl them back in and rotate back to the starting position as you press the dumbbell, and then switch sides. 
 
-Here is a video demonstration:
-https://youtu.be/TFt9ydDobyw
+[Here is a video demonstration](https://youtu.be/TFt9ydDobyw)
 
 I find the supinated chest press is the most taxing of these exercises, but the single rolling press still has me confused every now and then. 
 
