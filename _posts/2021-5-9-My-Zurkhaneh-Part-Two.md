@@ -14,4 +14,4 @@ You start this pushup in a pike position with your feet spread rather wide apart
 
 The other pushup form is similar to a hindu pushup. In the pike position, practitioners hold themselves up while a short verse is recited, so I like to hold it for 4 seconds. Then you perform a pushup in the same manner as the previous form, but you extend into a cobra stretch from the ground and similarly hold that position for a few counts. Some form of this exercise seems pretty common these days, although I had never seen any sort of squat being done in this position.
 
-[Here are some pushups I like to do.](https://youtu.be/z5TNz3PNjeQ) I've found I like the feeling of doing these pushups a lot more than that of standard pushups, so give it a try and see what you think.
+[Here are some pushups I like to do.](https://youtu.be/z5TNz3PNjeQ) I've found I like the feeling of doing these pushups a lot more than that of standard pushups, so give it a try; see if you can do 15 minutes without stopping.
